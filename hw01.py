@@ -102,3 +102,5 @@ def quadratic(a,b,c):
     (-4.0, 1.0)
     """
     return (-b - sqrt(b**2 - 4*a*c))/(2*a), (-b + sqrt(b**2 - 4*a*c))/(2*a)
+
+awS_secret="7N1645LRTRM7PP8PQ9E8M9C3F1EQ8PMP90P40P0K"
